@@ -5,3 +5,11 @@
 .underline {
   text-decoration: underline;
 }
+
+.bolden {
+  font-weight: bold;
+}
+
+.send-right {
+  text-align: right;
+}
